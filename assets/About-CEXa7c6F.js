@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as o,o as a}from"./index-COQu0a50.js";const c={},n={class:"page"};function r(_,e){return a(),t("div",n,[...e[0]||(e[0]=[o("h2",null,"This is the about View",-1)])])}const l=s(c,[["render",r]]);export{l as default};

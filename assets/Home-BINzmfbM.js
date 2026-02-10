@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as e,o as c}from"./index-COQu0a50.js";const n={},a={class:"home"};function l(r,o){return c(),t("div",a,[...o[0]||(o[0]=[e("h2",null,"欢迎来到首页",-1),e("div",{class:"home-content"},[e("p",null,"这是一个基于Vue 3的单页应用程序"),e("p",null,"您可以通过顶部导航栏或侧边栏切换不同页面")],-1)])])}const d=s(n,[["render",l],["__scopeId","data-v-00080c58"]]);export{d as default};
