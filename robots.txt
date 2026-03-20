@@ -1,0 +1,9 @@
+# Wilo Ring - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://wilo.life/sitemap.xml
+
+# 禁止爬取资源目录
+Disallow: /assets/js/
